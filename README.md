@@ -1,110 +1,48 @@
 <div align="center">
 
-# senaczk cdn
+# SenaCloud
 
-```txt
 fast upload, instant link
-```
 
-personal cloud uploader for direct file hosting
+Personal cloud uploader with direct file hosting and API support.
 
-[![CDN](https://img.shields.io/badge/CDN-cdn.senaku.biz.id-1E3A8A?style=for-the-badge)](https://cdn.senaku.biz.id)
-[![Node.js](https://img.shields.io/badge/Node.js-Express-111827?style=for-the-badge&logo=node.js)]()
-[![Status](https://img.shields.io/badge/status-online-3B82F6?style=for-the-badge)]()
+[Website](https://cdn.senaku.biz.id)
 
 </div>
 
 ---
 
-## overview
+## Overview
 
-`senaczk cdn` is a personal file uploader built for fast upload, direct URL generation, and simple API usage.
+SenaCloud is a lightweight cloud uploader built for fast file uploads and direct URL generation.
 
-```txt
-https://cdn.senaku.biz.id/u/file.ext
-```
+Features:
 
----
-
-## features
-
-| feature | status |
-|---|---|
-| image upload | active |
-| video upload | active |
-| audio upload | active |
-| file upload | active |
-| direct url | active |
-| drag and drop | active |
-| api endpoint | active |
-| upload history | local session |
-| mobile optimized | active |
+- Fast upload
+- Instant file link
+- Image hosting
+- Video hosting
+- Audio hosting
+- Direct URL access
+- API support
+- Simple UI
 
 ---
 
-## installation
+## Tech
 
-```bash
-git clone https://github.com/senaczk/cdn-senaczk.git
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express
 
-cd cdn-senaczk
+---
 
-node source.js
-```
-
-## api
-
-```http
-POST /upload
-```
-
-field:
+## Example Link
 
 ```txt
-file
-```
-
-Example:
-
-```js
-const fs=require('fs')
-const FormData=require('form-data')
-const fetch=require('node-fetch')
-
-async function upload(filePath){
-
-const form=new FormData()
-
-form.append(
-'file',
-fs.createReadStream(filePath)
-)
-
-const res=await fetch(
-'https://cdn.senaku.biz.id/upload',
-{
-method:'POST',
-body:form
-}
-)
-
-const data=await res.json()
-
-return data.url
-
-}
-
-upload('./image.jpg')
-.then(console.log)
-```
-
-Response:
-
-```json
-{
-"success":true,
-"url":"https://cdn.senaku.biz.id/u/x7kd3a.jpg"
-}
+https://cdn.senaku.biz.id/u/file.jpg}
 ```
 
 ---
