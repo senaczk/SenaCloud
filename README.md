@@ -33,7 +33,7 @@ const senaczk = {
   name: "Arsena Luciendra",
   nickname: "Sena",
   location: "Indonesia",
-  role: "Developer",
+  role: "Learning Developer",
 
   focus: [
     "Bots",
