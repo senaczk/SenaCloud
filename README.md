@@ -15,7 +15,7 @@ Developer, Bot Builder, Self Hosted Enthusiast
 </h3>
 
 <p align="center">  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7005C&center=true&vCenter=true&width=430&lines=Simple+code%2C+useful+tools%2C+real+projects.;I+build+bots%2C+websites%2C+and+APIs.;Self+Hosted+Enthusiast." alt="Typing SVG"/>  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7005C&center=true&vCenter=true&width=520&lines=Hello+World!+I'm+Arsena+Luciendra;Backend+%26+Frontend+Developer;Building+Cool+Stuff+With+Code;From+Indonesia" alt="Typing SVG"/>
 </p>
 
 <p align="center">  
