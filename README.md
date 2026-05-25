@@ -1,99 +1,66 @@
-<div align="center">
+<div align="center"><img src="https://cdn.senaku.biz.id/u/0ufi6o.jpg" width="120" style="border-radius:50%"/>☁️ SenaCloud
 
-# SenaCloud
+Fast Upload • Instant Link • API Support
 
-fast upload, instant link
+<p>
+<img src="https://img.shields.io/badge/Status-Online-2563eb?style=for-the-badge">
+<img src="https://img.shields.io/badge/Platform-SenaCloud-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Version-v1.0-white?style=for-the-badge">
+</p><p>
+<img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript">
+<img src="https://img.shields.io/badge/HTML-orange?logo=html5">
+<img src="https://img.shields.io/badge/CSS-blue?logo=css3">
+</p>"Website" (https://cdn.senaku.biz.id)
 
-Personal cloud uploader with direct file hosting and API support.
+</div>---
 
-[Website](https://cdn.senaku.biz.id)
-
-</div>
-
----
-
-## Overview
+📦 Overview
 
 SenaCloud is a lightweight cloud uploader built for fast file uploads and direct URL generation.
 
-Features:
-
-- Fast upload
-- Instant file link
-- Image hosting
-- Video hosting
-- Audio hosting
-- Direct URL access
-- API support
-- Simple UI
+upload → process → generate link
 
 ---
 
-## Tech
+⚡ Features
 
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express
-
----
-
-## Example Link
-
-```txt
-https://cdn.senaku.biz.id/u/file.jpg}
-```
+✓ Fast Upload
+✓ Direct URL
+✓ Image Hosting
+✓ Video Hosting
+✓ Audio Hosting
+✓ API Support
+✓ Lightweight
+✓ Modern UI
 
 ---
 
-## stack
+🧩 Example
 
-```txt
-NodeJS
-ExpressJS
-Multer
-PM2
-Nginx
-Ubuntu
-```
+https://cdn.senaku.biz.id/u/file.jpg
 
 ---
 
-## file url example
+🛠 Tech Stack
 
-```txt
-https://cdn.senaku.biz.id/u/x7kd3a.jpg
-
-https://cdn.senaku.biz.id/u/a91k2v.mp4
-
-https://cdn.senaku.biz.id/u/p6x4bd.mp3
-```
+HTML
+CSS
+JavaScript
+Node.js
+Express
 
 ---
 
-## links
+🔗 Links
 
-| platform | url |
-|---|---|
-| cdn | https://cdn.senaku.biz.id |
-| github | https://github.com/senaczk |
-| telegram | senaczk.t.me |
+Website:
+https://cdn.senaku.biz.id
 
----
-
-## source
-
-```txt
-source status : private
-documentation : public
-aura : maximum
-```
+GitHub:
+https://github.com/senaczk
 
 ---
 
-<div align="center">
-
-built by Arsena Luciendra
+<div align="center">No template, just code.
 
 </div>
